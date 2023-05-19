@@ -291,6 +291,10 @@ p {
         flex-direction: column-reverse;
     }
 
+    #header-logo {
+        display: none;
+    }
+
     #desc-intro {
         padding-top: 5px;
     }
